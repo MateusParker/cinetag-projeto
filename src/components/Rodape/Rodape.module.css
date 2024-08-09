@@ -1,0 +1,17 @@
+.rodapetexto {
+
+    background-color: var(--preto);
+    display: flex;
+    justify-content: center;
+    padding: 1em;
+
+
+}
+
+.rodapetexto h2 {
+
+    color: var(--branco);
+    font-size: 16px;
+    text-align: center;
+
+}

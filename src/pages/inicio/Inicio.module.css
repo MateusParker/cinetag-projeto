@@ -1,0 +1,23 @@
+.container {
+
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-auto-rows: 380px;
+    min-height: 1200px;
+}
+
+
+
+@media only screen and (max-width: 450px)  {
+   
+    .container {
+
+        
+        display: grid;
+        grid-template-columns: repeat(1, 1fr);
+        grid-auto-rows: 450px;
+        min-height: 1200px;
+    }
+    
+  }
+

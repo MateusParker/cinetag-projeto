@@ -1,0 +1,81 @@
+{"videos":[
+    {
+        "id": 1,
+        "titulo": "Rocky, um Lutador - 1976",
+        "capa": "https://i.pinimg.com/564x/02/9e/58/029e58a8af7e3423ed639bda6b78b4a0.jpg",
+        "link": "https://www.youtube.com/embed/E9pJa7GIR1Y?si=-JvCQS164ItPnFcI",
+    "sinopse":"Rocky Balboa, um pequeno boxeador da classe trabalhadora da Filadélfia, é arbitrariamente escolhido para lutar contra o campeão dos pesos pesados, Apollo Creed, quando o adversário do invicto lutador agendado para a luta é ferido. Durante o treinamento com o mal-humorado Mickey Goldmill, Rocky timidamente começa um relacionamento com Adrian, a invisível irmã de Paulie, seu amigo empacotador de carne"
+    },
+    {
+        "id": 2,
+        "titulo": "O Exorcista  - 1973",
+        "capa": "https://i.pinimg.com/564x/f1/49/7e/f1497e042dc2e6b50324accb700361e4.jpg",
+        "link": "https://www.youtube.com/embed/9h8x3HdEkOY?si=HHNjVjVefYsalCgv",
+    "sinopse":"Uma atriz vai gradativamente tomando consciência de que a sua filha de doze anos está tendo um comportamento completamente assustador. Deste modo, ela pede ajuda a um padre, que também é um psiquiatra, e este chega a conclusão de que a garota está possuída pelo demônio. Ele solicita então a ajuda de um segundo sacerdote, especialista em exorcismo, para tentar livrar a menina desta terrível possessão"
+    },
+    {
+        "id": 3,
+        "titulo": "Tubarão - 1975",
+        "capa": "https://media.gettyimages.com/id/629542687/pt/foto/a-poster-for-the-1975-american-film-jaws-directed-by-steven-spielberg-for-universal-studios.jpg?s=1024x1024&w=gi&k=20&c=w9Cfjw531s5wuAop7wT08FESYOB6ceKxmZ2NRCnavug=",
+        "link": "https://www.youtube.com/embed/CpMV9YA_4Tk?si=TkaA8ZbiJ2SP1Ehi",
+    "sinopse":"Um terrível ataque a banhistas é o sinal de que a praia da pequena cidade de Amity virou refeitório de um gigantesco tubarão branco, que começa a se alimentar dos turistas. Embora o prefeito queira esconder os fatos da mídia, o xerife local (Roy Scheider) pede ajuda a um ictiologista (Richard Dreyfuss) e a um pescador veterano (Robert Shaw) para caçar o animal. Mas a missão vai ser mais complicada do que eles imaginavam."
+    },
+  {
+    "id": 4,
+    "titulo": "O Poderoso Chefão - 1972 ",
+    "capa": "https://media.gettyimages.com/id/505997107/pt/foto/the-godfather-a-1972-american-crime-film-starring-marlon-brando-and-al-pacino.jpg?s=1024x1024&w=gi&k=20&c=ChFKRr0zkV9bVeb68ANQYuMFd08UiqVG5a0-l5IrCyM=",
+    "link": "https://www.youtube.com/embed/w3Wo6QiD3eU?si=-iSoHk1_Ret3-3Wq",
+    "sinopse":"Uma família mafiosa luta para estabelecer sua supremacia nos Estados Unidos depois da Segunda Guerra Mundial. Uma tentativa de assassinato deixa o chefão Vito Corleone incapacitado e força os filhos Michael e Sonny a assumir os negócios."
+  },
+  {
+    "id": 5,
+    "titulo": "Piratas do Caribe - 2003",
+    "capa": "https://media.gettyimages.com/id/458587791/pt/foto/a-pessoa-desconhecida-mar%C3%A9s-poster.jpg?s=1024x1024&w=gi&k=20&c=wKpNuGhkGe3VDd3ZiqMMLpMHrtNQGzzpumgB4eFcaJw=",
+    "link": "https://www.youtube.com/embed/DGnatLS9Ohw?si=Ds_JePLR8jjvJ0W8",
+    "sinopse":"O pirata Jack Sparrow tem seu navio saqueado e roubado pelo capitão Barbossa e sua tripulação. Com o navio de Sparrow, Barbossa invade a cidade de Port Royal, levando consigo Elizabeth Swann, filha do governador. Para recuperar sua embarcação, Sparrow recebe a ajuda de Will Turner, um grande amigo de Elizabeth. Eles desbravam os mares em direção à misteriosa Ilha da Morte, tentando impedir que os piratas-esqueleto derramem o sangue de Elizabeth para desfazer a maldição que os assola."
+  }
+
+
+  ,
+  {
+    "id": 6,
+    "titulo": "De volta para o Futuro - 1990",
+    "capa": "https://i.pinimg.com/564x/20/d9/e0/20d9e047762c946e380eaba2e114c1a8.jpg",
+    "link": "https://www.youtube.com/embed/NeiUe9ohMnc?si=INdqH6iuL0Z2YcHA",
+    "sinopse":"Após de receber uma carta de Doc (Christopher Lloyd) datada de 1885, Marty McFly (Michael J. Fox) decide viajar para o Velho Oeste, no dia 2 de setembro do mesmo ano. Lá ele descobre que o doutor está fugindo de uma gangue de bandidos e se apaixonou por uma professora da época. Agora, Marty tem apenas cinco dias para salvar a si e aos seus amigos e voltar para o futuro."
+  }
+
+  ,
+  {
+    "id": 7,
+    "titulo": "O Predador - 1987",
+    "capa": "https://i.pinimg.com/736x/a0/5f/f5/a05ff5bbba150b0096eef12a5fe9949c.jpg",
+    "link": "https://www.youtube.com/embed/_1wDBNHYDv8?si=xFsa7_My2hSAGFnp",
+    "sinopse":"Dutch é contratado pelo governo dos Estados Unidos para resgatar políticos presos na Guatemala. Mas quando ele e sua equipe chegam na América Central, logo percebem que há algo errado. Depois de descobrir vários cadáveres, a equipe descobre que está sendo caçada por uma criatura brutal com força sobre-humana e uma capacidade surpreendente de se camuflar."
+  }
+
+  ,
+  {
+    "id": 8,
+    "titulo": "Indiana Jones E O Templo Da Perdição - 1984",
+    "capa": "https://i.pinimg.com/564x/4d/93/08/4d9308a38402d7d5a9a1a8e5dfa9daf1.jpg",
+    "link": "https://www.youtube.com/embed/GGSpsutNlwI?si=kwfmXfzJrG-8u8Dl",
+    "sinopse":"Indiana Jones tem como missão resgatar uma pedra roubada por um cruel feiticeiro na Índia. Ele descobre uma mina onde crianças são escravizadas e se depara com cultos de sacrifício humano nas catacumbas de um antigo palácio."
+  },
+  {
+    "id": 9,
+    "titulo": "Robocop - 1987",
+    "capa": "https://i.pinimg.com/564x/71/92/4d/71924db5f4709a08c0cacd61cb50ace9.jpg",
+    "link": "https://www.youtube.com/embed/IqvRDhW-XVA?si=VuR6hhEFKp6-EpkL",
+    "sinopse":"Policial é morto em combate e transformado por cientistas da empresa que dirige a força policial em um ciborgue ultrassofisticado a fim de ser usado na luta contra o crime na cidade de Detroit. Porém, apesar de ter sua memória apagada, lembranças o assombram e o levam a buscar vingança"
+  }
+  ,
+  {
+    "id": 10,
+    "titulo": "Superman - 1978",
+    "capa": "https://i.pinimg.com/564x/9d/e0/db/9de0db4eb4b1b79dc186962d7902f41c.jpg",
+    "link": "https://www.youtube.com/embed/xXyuUbtpmxE?si=JoW3ak2RTYeVB1nH",
+    "sinopse":"Pouco antes da destruição do planeta Krypton, o cientista Jor-El envia seu pequeno filho Kal-El em uma nave espacial à Terra. Criado pelos agricultores Jonathan e Martha Kent, o jovem Clark descobre a fonte de seus poderes sobre-humanos e se muda para Metrópolis para combater o mal. Como Superman, ele luta contra o vilão Lex Luthor e como repórter, Clark Kent, tenta conquistar Lois Lane."
+  }
+]}
+

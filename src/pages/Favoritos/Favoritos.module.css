@@ -1,0 +1,34 @@
+.capa {
+    width: 100%;
+    height: 347px;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.titulofavorito {
+
+    text-align: center;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+}
+
+
+
+@media (max-width: 400) {
+   
+    .container {
+     
+        margin-top: 10px;
+      
+        
+        background-color: var(--cinza);
+        border: 1px var(--preto) solid;
+       
+        width: 350px;
+         margin: 0 auto;
+         
+    }
+  }
